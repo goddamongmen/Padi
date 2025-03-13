@@ -16,10 +16,10 @@ export function SiteHeader() {
             <Link href="/rallies" className="text-sm font-medium transition-colors hover:text-primary">
               Explore
             </Link>
-            <Link href="/how-it-works" className="text-sm font-medium transition-colors hover:text-primary">
+            <Link href="/" className="text-sm font-medium transition-colors hover:text-primary">
               How It Works
             </Link>
-            <Link href="/about" className="text-sm font-medium transition-colors hover:text-primary">
+            <Link href="/" className="text-sm font-medium transition-colors hover:text-primary">
               About
             </Link>
           </nav>
